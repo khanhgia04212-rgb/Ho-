@@ -1,0 +1,6 @@
+{
+  "name": "Phòng Thí Nghiệm Ảo: Hiện Tượng Hóa Học Trong Dung Dịch",
+  "description": "Mô phỏng trực quan tương tác các hiện tượng hóa học trong dung dịch chất điện li (kết tủa, sủi bọt khí, kim loại đẩy kim loại, phản ứng trung hòa, oxi hóa - khử) dành cho giảng dạy môn Hóa học THCS & THPT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
